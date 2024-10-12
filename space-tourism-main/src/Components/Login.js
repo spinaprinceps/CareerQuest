@@ -8,7 +8,7 @@ export default function Login(){
 <div className="login-container">
   <h2>Hi, Welcome Back! </h2>
   <form>
-    <label htmlFor="email">Email</label>
+    <label htmlFor="email">email</label>
     <input type="email" id="email" name="email" placeholder="enter your email" />
     <label htmlFor="password">Password</label>
     <input type="password" id="password" name="password" placeholder="enter your password" />
